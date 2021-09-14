@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin Xia
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning JavaScript as well as front-end frameworks such as Bootstrap and jQuery
+- 🌱 I’m currently learning JavaScript and React.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
